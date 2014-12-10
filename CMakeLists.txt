@@ -8,8 +8,6 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate messages in the 'msg' folder
 add_message_files(
    FILES
-   mes_mobile_command.msg
-   mes_mobile_status.msg
    mes_sorting_command.msg
    mes_sorting_status.msg
    mes_order.msg
